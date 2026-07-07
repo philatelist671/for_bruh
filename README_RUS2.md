@@ -24,7 +24,6 @@
 
 ## Chapter I
 
-![linux_network](misc/images/linux_network.png)
 
 Планета Земля, США, штат Калифорния, Комптон, джаз клуб "Seb's", наши дни.
 
